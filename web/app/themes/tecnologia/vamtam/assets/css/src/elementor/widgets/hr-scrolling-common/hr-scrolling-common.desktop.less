@@ -1,0 +1,45 @@
+.elementor-widget.vamtam-has-theme-widget-styles {
+	&.vamtam-has-hr-layout {
+		:is( ul.products, .elementor-posts-container ) {
+			// FF - Scrollbar Transition.
+			.e--ua-firefox & {
+				transition: scrollbar-color .7s ease;
+				scrollbar-color: transparent transparent;
+
+				&:hover {
+					// FF
+					scrollbar-color: var(--vamtam-accent-color-3) transparent;
+				}
+			}
+
+			// Webkit - Scrollbar Transition.
+			.e--ua-webkit:not(.e--ua-safari) & {
+				color: transparent;
+				transition: color .7s ease;
+
+				&:hover {
+					color: var(--vamtam-accent-color-8);
+				}
+
+				&::-webkit-scrollbar {
+					width: 14px;
+				}
+
+				&::-webkit-scrollbar-thumb {
+					background-clip: content-box;
+					border: 4px solid transparent;
+					border-radius: 7px;
+					box-shadow: inset 0 0 0 10px;
+				}
+				&::-webkit-scrollbar-button {
+					width: 0;
+					height: 0;
+					display: none;
+				}
+				&::-webkit-scrollbar-corner {
+					background-color: transparent;
+				}
+			}
+		}
+	}
+}
