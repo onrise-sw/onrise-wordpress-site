@@ -25,3 +25,8 @@ web/.htaccess
 
 # WP-CLI
 wp-cli.local.yml
+
+# Plugins
+!web/app/plugins/vamtam-elementor-integration-tecnologia
+!web/app/plugins/vamtam-importers-e
+!web/app/plugins/vamtam-product-qa
