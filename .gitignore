@@ -30,3 +30,5 @@ wp-cli.local.yml
 !web/app/plugins/vamtam-elementor-integration-tecnologia
 !web/app/plugins/vamtam-importers-e
 !web/app/plugins/vamtam-product-qa
+!web/app/plugins/pro-elements
+!web/app/plugins/elementor-pro-gpl
