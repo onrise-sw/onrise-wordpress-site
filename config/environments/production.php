@@ -15,6 +15,6 @@ use Roots\WPConfig\Config;
  */
 Config::define( 'AS3CF_SETTINGS', serialize( array(
 	'provider' => 'aws',
-	'access-key-id' => env('ACCESS_KEY_ID') ?? "",
-	'secret-access-key' => env('SECRET_ACCESS_KEY') ?? "",
+	'access-key-id' => env('ACCESS_KEY_ID'),
+	'secret-access-key' => env('SECRET_ACCESS_KEY'),
 ) ) );
