@@ -41,7 +41,18 @@
     "roots/wp-config": "1.0.0",
     "roots/wp-password-bcrypt": "1.1.0",
     "wpackagist-theme/twentytwentyfour": "^1.0",
-    "wpackagist-plugin/elementor":"3.19.3"
+
+    "wpackagist-plugin/elementor":"3.19.3",
+    "wpackagist-plugin/wpforms-lite":"1.8.6.2",
+    "wpackagist-plugin/cookie-law-info":"3.1.7",
+    "wpackagist-plugin/limit-login-attempts-reloaded":"2.26.4",
+    "wpackagist-plugin/loco-translate":"2.6.4",
+    "wpackagist-plugin/really-simple-ssl":"7.2.1",
+    "wpackagist-plugin/selfhost-google-fonts":"1.0.1",
+    "wpackagist-plugin/updraftplus":"1.23.16",
+    "wpackagist-plugin/wp-super-cache":"1.11.0",
+    "wpackagist-plugin/wordfence":"7.11.3",
+    "wpackagist-plugin/wordpress-seo":"22.1"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.7.1",
