@@ -113,10 +113,6 @@ Config::define('AUTOMATIC_UPDATER_DISABLED', true);
 Config::define('DISABLE_WP_CRON', env('DISABLE_WP_CRON') ?: false);
 
 Config::define('ALLOW_UNFILTERED_UPLOADS', true);
-add_filter( 'upload_mimes', function ( $mimes ) {
-    $mimes['svg'] = 'image/svg+xml'; 
-    return $mimes;
-} );
 
 // Disable the plugin and theme file editor in the admin
 Config::define('DISALLOW_FILE_EDIT', true);
