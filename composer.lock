@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "15f4e6479b3eb7c9a5347b8353521e94",
+    "content-hash": "627428bf40ae468b7fe85f8cba37ce12",
     "packages": [
         {
             "name": "composer/installers",
@@ -1288,24 +1288,6 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/really-simple-ssl/"
-        },
-        {
-            "name": "wpackagist-plugin/selfhost-google-fonts",
-            "version": "1.0.1",
-            "source": {
-                "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/selfhost-google-fonts/",
-                "reference": "tags/1.0.1"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/selfhost-google-fonts.1.0.1.zip"
-            },
-            "require": {
-                "composer/installers": "^1.0 || ^2.0"
-            },
-            "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/selfhost-google-fonts/"
         },
         {
             "name": "wpackagist-plugin/seo-by-rank-math",
