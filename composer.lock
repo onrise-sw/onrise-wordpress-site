@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "0dcfa3c64ccdb20c68996cd46342d892",
+    "content-hash": "15f4e6479b3eb7c9a5347b8353521e94",
     "packages": [
         {
             "name": "composer/installers",
@@ -1111,15 +1111,15 @@
         },
         {
             "name": "wpackagist-plugin/all-in-one-seo-pack",
-            "version": "4.5.7.2",
+            "version": "4.5.7.3",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/all-in-one-seo-pack/",
-                "reference": "tags/4.5.7.2"
+                "reference": "tags/4.5.7.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/all-in-one-seo-pack.4.5.7.2.zip"
+                "url": "https://downloads.wordpress.org/plugin/all-in-one-seo-pack.4.5.7.3.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -1147,15 +1147,15 @@
         },
         {
             "name": "wpackagist-plugin/cookie-law-info",
-            "version": "3.1.7",
+            "version": "3.2.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/cookie-law-info/",
-                "reference": "tags/3.1.7"
+                "reference": "tags/3.2.0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/cookie-law-info.3.1.7.zip"
+                "url": "https://downloads.wordpress.org/plugin/cookie-law-info.3.2.0.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -1165,15 +1165,15 @@
         },
         {
             "name": "wpackagist-plugin/elementor",
-            "version": "3.19.3",
+            "version": "3.19.4",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/elementor/",
-                "reference": "tags/3.19.3"
+                "reference": "tags/3.19.4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/elementor.3.19.3.zip"
+                "url": "https://downloads.wordpress.org/plugin/elementor.3.19.4.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -1219,15 +1219,15 @@
         },
         {
             "name": "wpackagist-plugin/insert-headers-and-footers",
-            "version": "2.1.8",
+            "version": "2.1.9",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/insert-headers-and-footers/",
-                "reference": "tags/2.1.8"
+                "reference": "tags/2.1.9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/insert-headers-and-footers.2.1.8.zip"
+                "url": "https://downloads.wordpress.org/plugin/insert-headers-and-footers.2.1.9.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -1237,15 +1237,15 @@
         },
         {
             "name": "wpackagist-plugin/limit-login-attempts-reloaded",
-            "version": "2.26.4",
+            "version": "2.26.6",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/limit-login-attempts-reloaded/",
-                "reference": "tags/2.26.4"
+                "reference": "tags/2.26.6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/limit-login-attempts-reloaded.2.26.4.zip"
+                "url": "https://downloads.wordpress.org/plugin/limit-login-attempts-reloaded.2.26.6.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -1255,15 +1255,15 @@
         },
         {
             "name": "wpackagist-plugin/loco-translate",
-            "version": "2.6.4",
+            "version": "2.6.6",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/loco-translate/",
-                "reference": "tags/2.6.4"
+                "reference": "tags/2.6.6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/loco-translate.2.6.4.zip"
+                "url": "https://downloads.wordpress.org/plugin/loco-translate.2.6.6.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -1273,15 +1273,15 @@
         },
         {
             "name": "wpackagist-plugin/really-simple-ssl",
-            "version": "7.2.1",
+            "version": "7.2.3",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/really-simple-ssl/",
-                "reference": "tags/7.2.1"
+                "reference": "tags/7.2.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/really-simple-ssl.7.2.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/really-simple-ssl.7.2.3.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -1345,15 +1345,15 @@
         },
         {
             "name": "wpackagist-plugin/updraftplus",
-            "version": "1.23.16",
+            "version": "1.24.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/updraftplus/",
-                "reference": "tags/1.23.16"
+                "reference": "tags/1.24.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/updraftplus.1.23.16.zip"
+                "url": "https://downloads.wordpress.org/plugin/updraftplus.1.24.1.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -1399,15 +1399,15 @@
         },
         {
             "name": "wpackagist-plugin/wp-mail-smtp",
-            "version": "3.11.1",
+            "version": "4.0.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wp-mail-smtp/",
-                "reference": "tags/3.11.1"
+                "reference": "tags/4.0.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wp-mail-smtp.3.11.1.zip"
+                "url": "https://downloads.wordpress.org/plugin/wp-mail-smtp.4.0.1.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -1435,15 +1435,15 @@
         },
         {
             "name": "wpackagist-plugin/wpforms-lite",
-            "version": "1.8.6.2",
+            "version": "1.8.7.2",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wpforms-lite/",
-                "reference": "tags/1.8.6.2"
+                "reference": "tags/1.8.7.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wpforms-lite.1.8.6.2.zip"
+                "url": "https://downloads.wordpress.org/plugin/wpforms-lite.1.8.7.2.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -1477,12 +1477,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "cca68bc8c5e35d0bc657c6c47bd40d28184abd87"
+                "reference": "a2983694df3f34163f1007ec763ee492067cad8a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/cca68bc8c5e35d0bc657c6c47bd40d28184abd87",
-                "reference": "cca68bc8c5e35d0bc657c6c47bd40d28184abd87",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/a2983694df3f34163f1007ec763ee492067cad8a",
+                "reference": "a2983694df3f34163f1007ec763ee492067cad8a",
                 "shasum": ""
             },
             "conflict": {
@@ -1558,7 +1558,7 @@
                 "chriskacerguis/codeigniter-restserver": "<=2.7.1",
                 "civicrm/civicrm-core": ">=4.2,<4.2.9|>=4.3,<4.3.3",
                 "ckeditor/ckeditor": "<4.24",
-                "cockpit-hq/cockpit": "<=2.6.3",
+                "cockpit-hq/cockpit": "<=2.6.3|==2.7",
                 "codeception/codeception": "<3.1.3|>=4,<4.1.22",
                 "codeigniter/framework": "<3.1.9",
                 "codeigniter4/framework": "<=4.4.2",
@@ -2209,7 +2209,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-02-27T22:04:41+00:00"
+            "time": "2024-03-01T00:16:08+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
