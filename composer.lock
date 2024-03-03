@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "2de84262f431a2675fe7a294fd683e34",
+    "content-hash": "fa2890a9ad5672f732ae81ba0266c2d9",
     "packages": [
         {
             "name": "composer/installers",
@@ -1342,6 +1342,24 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/sg-cachepress/"
+        },
+        {
+            "name": "wpackagist-plugin/simple-cloudflare-turnstile",
+            "version": "1.25.0",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/simple-cloudflare-turnstile/",
+                "reference": "trunk"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/simple-cloudflare-turnstile.zip?timestamp=1703253443"
+            },
+            "require": {
+                "composer/installers": "^1.0 || ^2.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/simple-cloudflare-turnstile/"
         },
         {
             "name": "wpackagist-plugin/updraftplus",
