@@ -63,8 +63,8 @@
     "wpackagist-plugin/simple-cloudflare-turnstile":"1.25.0",
     "wpackagist-plugin/translatepress-multilingual":"2.7.3",
     "wpackagist-plugin/wp-smushit":"3.15.5",
-    "wpackagist-plugin/jetpack":"13.2",
-    "wpackagist-plugin/wppool-turnstile-captcha-spam-filter":"2.3.6"
+    "wpackagist-plugin/wppool-turnstile-captcha-spam-filter":"2.3.6",
+    "wpackagist-plugin/seo-by-rank-math":"1.0.214"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.7.1",
