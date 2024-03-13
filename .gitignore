@@ -32,3 +32,4 @@ wp-cli.local.yml
 !web/app/plugins/vamtam-product-qa
 !web/app/plugins/pro-elements
 !web/app/plugins/elementor-pro-gpl
+!web/app/plugins/seo-by-rank-math-pro
